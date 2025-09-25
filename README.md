@@ -38,17 +38,17 @@ With this repository you can **beautify Ubuntu 25 GNOME desktop** easily.
 
 ### اجرای مستقیم
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/USERNAME/beautify-ubuntu25/main/beautify-ubuntu25.sh)
+bash <(curl -s https://raw.githubusercontent.com/amirkateb/beautify-ubuntu25/main/beautify-ubuntu25.sh)
 ```
 
 یا:
 ```bash
-bash <(wget -qO- https://raw.githubusercontent.com/USERNAME/beautify-ubuntu25/main/beautify-ubuntu25.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/amirkateb/beautify-ubuntu25/main/beautify-ubuntu25.sh)
 ```
 
 ### کلون و اجرا
 ```bash
-git clone https://github.com/USERNAME/beautify-ubuntu25.git
+git clone https://github.com/amirkateb/beautify-ubuntu25.git
 cd beautify-ubuntu25
 chmod +x beautify-ubuntu25.sh
 ./beautify-ubuntu25.sh
@@ -60,17 +60,17 @@ chmod +x beautify-ubuntu25.sh
 
 ### Run directly
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/USERNAME/beautify-ubuntu25/main/beautify-ubuntu25.sh)
+bash <(curl -s https://raw.githubusercontent.com/amirkateb/beautify-ubuntu25/main/beautify-ubuntu25.sh)
 ```
 
 or:
 ```bash
-bash <(wget -qO- https://raw.githubusercontent.com/USERNAME/beautify-ubuntu25/main/beautify-ubuntu25.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/amirkateb/beautify-ubuntu25/main/beautify-ubuntu25.sh)
 ```
 
 ### Clone and run
 ```bash
-git clone https://github.com/USERNAME/beautify-ubuntu25.git
+git clone https://github.com/amirkateb/beautify-ubuntu25.git
 cd beautify-ubuntu25
 chmod +x beautify-ubuntu25.sh
 ./beautify-ubuntu25.sh
@@ -82,17 +82,17 @@ chmod +x beautify-ubuntu25.sh
 
 ### التنفيذ المباشر
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/USERNAME/beautify-ubuntu25/main/beautify-ubuntu25.sh)
+bash <(curl -s https://raw.githubusercontent.com/amirkateb/beautify-ubuntu25/main/beautify-ubuntu25.sh)
 ```
 
 أو:
 ```bash
-bash <(wget -qO- https://raw.githubusercontent.com/USERNAME/beautify-ubuntu25/main/beautify-ubuntu25.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/amirkateb/beautify-ubuntu25/main/beautify-ubuntu25.sh)
 ```
 
 ### الاستنساخ والتنفيذ
 ```bash
-git clone https://github.com/USERNAME/beautify-ubuntu25.git
+git clone https://github.com/amirkateb/beautify-ubuntu25.git
 cd beautify-ubuntu25
 chmod +x beautify-ubuntu25.sh
 ./beautify-ubuntu25.sh
